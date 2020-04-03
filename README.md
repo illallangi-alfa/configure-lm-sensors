@@ -1,1 +1,1 @@
-# configure-curl
+# configure-lm-sensors
