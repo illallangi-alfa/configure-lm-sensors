@@ -1,0 +1,6 @@
+---
+configure_lm_sensors:
+  modules:
+    debian_x86_64:
+      - it87
+      - w83l786ng
